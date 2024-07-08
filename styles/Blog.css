@@ -5,3 +5,13 @@ nav>ul>li{
 nav li>a{
     text-decoration: none;
 }
+footer{
+    text-align: center;
+    margin-top: 15px;
+}
+figure{
+    text-align: center;
+}
+main >article >header>h2,p{
+    text-align: center;
+}
